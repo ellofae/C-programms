@@ -8,6 +8,10 @@ void writelines(char *lineptr[], int nlines);
 
 void qsort_f(char *lineptr[], int left, int right);
 
+void swap_f(char *lineptr[], int i, int j);
+
+int strcmp_f(char *s, char *t);
+
 _______________________________________________________________________________
 
 Результат работы:
