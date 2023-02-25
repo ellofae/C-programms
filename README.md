@@ -1,2 +1,2 @@
 # C-programms
-C code
+C code and assignments
