@@ -15,4 +15,4 @@ _______________________________________________________________________________
 
 Результат работы:
 
-![result1]([https://github.com/ellofae/Struct-identifier-and-changer-on-Go/blob/main/img/result1.PNG?raw=true](https://github.com/ellofae/C-programms/blob/main/tail/imgs/Screenshot%20from%202023-02-02%2020-34-01.png?raw=true))
+![result1](![image](https://user-images.githubusercontent.com/94999672/221370095-5fd96b7e-112c-4a2a-8ac0-5b4620dc1227.png))
