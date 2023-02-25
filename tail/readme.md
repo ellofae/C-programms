@@ -2,15 +2,15 @@
 
 Набор функций:
 
-**int reading(char *lineptr[], int max)**
+int reading(char *lineptr[], int max)
 
-**void writing(char *lineptr[], int nlines, int amount)**
+void writing(char *lineptr[], int nlines, int amount)
 
-**int getline_f(char *line, int max)**
+int getline_f(char *line, int max)
 
-**void strcpy_f(char *p, char *t)**
+void strcpy_f(char *p, char *t)
 
-**char *alloc_f(int len)**
+char *alloc_f(int len)
 _______________________________________________________________________________
 
 Результат работы:
